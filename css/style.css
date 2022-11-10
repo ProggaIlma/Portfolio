@@ -239,7 +239,7 @@ input[type=number] {
   font-size: 12px;
 }
 .home{
-  background-image: url('assets/three.jpg');
+  background-image: url('../assets/three.jpg');
   background-repeat:no-repeat;
   background-size:cover;
   height: 1000px;

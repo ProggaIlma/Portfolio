@@ -404,6 +404,7 @@ Media Query
   }
 
 }
+.modal.modal-lg, .modal.modal-xl { max-width: unset !important; right: 0; }
 
 
 
